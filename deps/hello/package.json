@@ -1,0 +1,9 @@
+{
+    "name": "hello",
+    "version": "0.0.1",
+    "repo": "pepaslabs/hello.c",
+    "description": "An example package for the clib package manager.",
+    "keywords": ["hello", "world"],
+    "license": "MIT",
+    "src": ["hello.h", "hello.c"]
+}

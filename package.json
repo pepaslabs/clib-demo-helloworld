@@ -1,0 +1,8 @@
+{
+    "name": "helloworld",
+    "version": "0.0.1",
+    "repo": "pepaslabs/clib-demo-helloworld",
+    "dependencies": {
+        "pepaslabs/hello.c": "0.0.1"
+    }
+}
