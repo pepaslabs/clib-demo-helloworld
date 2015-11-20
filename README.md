@@ -3,9 +3,9 @@ An example C program which demonstrates using [clib](https://github.com/clibs/cl
 
 (Use this as boilerplate which you can fork and edit.)
 
-## Using this project as a starting point
+## Hacking
 
-Here's how this project works:
+Tips on using this project as a starting point for your own project:
 
 * This project uses [clib](https://github.com/clibs/clib)-style dependencies
   * which are listed in `package.json`
